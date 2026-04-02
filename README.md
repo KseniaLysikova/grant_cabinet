@@ -6,7 +6,7 @@ pip install -r requirements.txt
 
 # Install Node.js
 
-Folow https://nodejs.org/en/download for more info
+Follow https://nodejs.org/en/download for more info
 
 # Run backend
 
