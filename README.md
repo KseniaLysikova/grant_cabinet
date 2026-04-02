@@ -1,3 +1,13 @@
+# Install Python dependences
+
+```shell
+pip install -r requirements.txt
+```
+
+# Install Node.js
+
+Folow https://nodejs.org/en/download for more info
+
 # Run backend
 
 ```shell
@@ -5,7 +15,7 @@ cd backend
 uvicorn app.main:app --reload
 ```
 
-# Run frontenf
+# Run frontend
 
 ```shell
 cd frontend
